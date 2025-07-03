@@ -1,0 +1,12 @@
+# .gitignore
+
+# Ignorar carpetas de entorno virtual de Python
+venv/
+env/
+entorno_Apifast/  
+
+# Otros archivos y carpetas comunes a ignorar en proyectos Python
+__pycache__/
+*.pyc
+*.log
+.vscode/  
